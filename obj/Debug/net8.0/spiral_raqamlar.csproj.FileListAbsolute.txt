@@ -1,0 +1,14 @@
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\bin\Debug\net8.0\spiral_raqamlar.exe
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\bin\Debug\net8.0\spiral_raqamlar.deps.json
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\bin\Debug\net8.0\spiral_raqamlar.runtimeconfig.json
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\bin\Debug\net8.0\spiral_raqamlar.dll
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\bin\Debug\net8.0\spiral_raqamlar.pdb
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.AssemblyInfoInputs.cache
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.AssemblyInfo.cs
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.csproj.CoreCompileInputs.cache
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.dll
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\refint\spiral_raqamlar.dll
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.pdb
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\spiral_raqamlar.genruntimeconfig.cache
+D:\darsliklar\Bulutli_texnologiyalar\spiral_raqamlar\obj\Debug\net8.0\ref\spiral_raqamlar.dll
